@@ -1,0 +1,15 @@
+body {
+  background-color: rgba(255, 197, 233, 0.253);
+}
+.image {
+  width: 400px;
+  display: block;
+  margin: auto;
+}
+.color-buttons {
+  display: flex;
+  justify-content: center;
+}
+button {
+  width: 120px;
+}
